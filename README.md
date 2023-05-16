@@ -25,6 +25,8 @@ grep
 
 wc
 
+free
+
 who/w/whoami
 
 sort
